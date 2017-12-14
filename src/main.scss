@@ -1,0 +1,36 @@
+.column {
+  float: left;
+  padding: 3rem;
+
+  .details {
+    width: 80%;
+  clear: both;
+  }
+ .data {
+   p{
+     margin-top: 4px;
+     margin-bottom: 2px;
+   }
+  }
+}
+  .contact {
+      .row {
+    display: inline-block;
+    width: 100%; }
+}
+
+
+.detail-profile{
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+ul {
+  list-style-type: none;
+}
+
+.title {
+  font-size: 40px;
+  border: solid black 1px;
+  width: 100%;
+  background: lightyellow;
+}
